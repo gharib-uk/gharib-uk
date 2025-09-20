@@ -1,24 +1,3 @@
-<div align="center">
-The tree of liberty must be refreshed 
-  from time to time with blood of <strong>patriots</strong> and <strong>tyrants</strong><br/>
-  -- Thomas Jefferson --
-</div><br/>
-<div align="center">
-He who would trade liberty for some temporary security deserves <strong>neither security nor liberty</strong><br/>
-  -- Benjamin Franklin --
-</div><br/>
-<div align="center">
-Democracy is two wolves and a lamb voting on what to have for lunch. <strong>Liberty</strong> is a well-armed lamb contesting the vote.<br/>
-  -- Benjamin Franklin --
-</div><br/>
-<div align="center">
-  <p>Science is like <strong>Grapes</strong><br>
-  When <strong>we have sour grapes</strong> will be Acetose & Useful<br>
-  When <strong>we pick them off the trees & eat them</strong>, will be Invigorating & Useful<br>
-  When <strong>we make wine</strong>, will be Healing & Useful<br>
-  When <strong>we turn them into raisins</strong>, will be Life-giving & Useful<br>
-  Alright! Which one do you prefer, friend ?!<br>
-  </p>
 </div>
 <h1 align="center">Hi 👋, I'm Alireza Gharib</h1>
 <h3 align="center">Software Developer</h3>
