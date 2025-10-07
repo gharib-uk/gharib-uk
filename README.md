@@ -32,7 +32,7 @@ technologies and trying to be up to date 🙂❤️<br/>
 
 - 🤩 My HackerRank Profile [link](https://www.hackerrank.com/alirezagharib110)
 
-- 💬 Ask me about **Golang, Rust, Cybersecuritye**
+- 💬 Ask me about **Golang, Rust, Cybersecurity**
 
 - 📫 How to reach me **alirezagharib110@gmail.com** and **alireza@gharib.us**
 
